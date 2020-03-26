@@ -2,6 +2,15 @@
 
 > For more info check out my blogpost at: https://nielssegers.com/post/lattepanda-alpha-hackintosh
 
+## Hardware
+
+-   **CPU:** Intel 8th m3-8100y
+-   **Graphics:** Intel HD Graphics 615
+-   **RAM:** 8G LPDDR3
+-   **Memory:** WD Black SN750 250GB M.2 SSD
+-   **Network:** Gigabit Ethernet & WIFI 802.11 AC, 2.4G & 5G
+-   **Dimension:** 115mm * 78mm * 14 mm
+
 ## Resources
 
 -   https://forum.novaspirit.com/t/macos-catalina-10-15/553/65
