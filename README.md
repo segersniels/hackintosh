@@ -1,6 +1,6 @@
 # hackintosh
 
-> For more info check out my blogpost at: https://nielssegers.com/post/lattepanda-alpha-hackintosh
+> For more info check out my blogpost at: https://nielssegers.be/post/lattepanda-alpha-hackintosh
 
 ## Hardware
 
